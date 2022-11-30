@@ -1,0 +1,8 @@
+a = int(input("ana sayıyı gir : "))
+b = int(input("sayının yüzde kaçı bulunacak? : "))
+c = a*b/100
+d = c + a
+
+print(a,"\'nın yüzde",b,"\'si,",c,"etmektedir.")
+print(a, "sayısı ile",b,"sayısı toplamı",d,"etmektedir.")
+#kodlar düzenlenmiştir.
